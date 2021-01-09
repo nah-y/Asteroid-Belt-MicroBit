@@ -1,10 +1,6 @@
 # Asteroid Belt [IoT-Challenge-01]
 Asteroid Belt is a game developed for the BBC microbit as a submission for Challenge 01 from the module Internet of Things.
 
-**Author Information** \
-**Name:** Aishath Nahidha \
-**Student ID:** S1900136 \
-**Program:** Bsc Computer Science (January 2019)
 
 ## Installation
 Asteroid Belt was created using the [micro:bit runtime](https://lancaster-university.github.io/microbit-docs/) developed by Lancaster University. 
